@@ -31,6 +31,8 @@ Clock will count down till the given time and then you will notified that the wo
 
 
 ## Deployed Url
+https://timeslicebyteamcodefest.netlify.app
+
 
 
 ## Video Url
