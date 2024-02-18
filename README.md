@@ -39,4 +39,6 @@ https://timeslicebyteamcodefest.netlify.app
 https://youtu.be/zbmmhv9U_4A
 
 ## Remarks
-- Any additional things you want to share
+- We were facing some bugs while deploying the website and now the website is deployed.
+- But the CSS code is not working as it should be for the website , so please take a note of that.
+If it is possible to run code in compiler by files on GitHub it would be highly appreciated.
