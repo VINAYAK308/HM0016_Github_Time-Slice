@@ -1,6 +1,6 @@
 # HM0016_Github_Time-Slice
 # [Team Id] [Team Name]
-CODEfest
+[HM0016] [CODEfest]
 ## [Problem statement Title]
 Design a solution to improve the focus of students and enhance attention span while studying.
 
